@@ -39,7 +39,7 @@ Target: Property Price.
 
 ⚙️ Installation & Usage
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Real-Estate-Price-Prediction-Model.git
+git clone [https://github.com/ADITI-VERMA05/Real-Estate-Price-Prediction]
 cd Real-Estate-Price-Prediction-Model
 
 2️⃣ Create Virtual Environment & Install Dependencies
